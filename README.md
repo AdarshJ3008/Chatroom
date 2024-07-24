@@ -49,7 +49,7 @@ cd chatroom</code></pre>
   <h2>Contributing</h2>
     <p>Contributions are welcome! Please fork the repository and submit pull requests.</p>
 
-  <h2>License</h2>
-    <p>This project is licensed under the MIT License. See the <code>LICENSE.sql</code> file for more details.</p>
+<h2>License</h2>
+    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
